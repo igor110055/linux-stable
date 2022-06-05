@@ -12,4 +12,4 @@ static const struct of_device_id st7701s_of_match[] = {
 	{ .compatible = "jinglitai,jlt4013a" },
 	{ /* sentinel */ }
 };
-MODULE_DEVICE_TABLE(of, y030xx067a_of_match);
+MODULE_DEVICE_TABLE(of, st7701s_of_match);
